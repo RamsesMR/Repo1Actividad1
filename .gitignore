@@ -9,3 +9,6 @@ id_ed25519.pub
 # Ignorar todos los archivos .psd y .xcf (Photoshop y GIMP)
 *.psd
 *.xcf
+
+#ignorar archivo_privado.html
+archivo_privado.html
