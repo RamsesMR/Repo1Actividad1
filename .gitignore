@@ -11,4 +11,4 @@ id_ed25519.pub
 *.xcf
 
 #ignorar archivo_privado.html
-archivo_privado.html
+#archivo_privado.html
