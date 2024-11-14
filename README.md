@@ -1,5 +1,5 @@
 
-** INTEGRANTES DEL GRUPO: **
+**INTEGRANTES DEL GRUPO:**
 -Paula  Arroyo
 -Kevin Crespo
 -Adrian Ramses Muñoz
